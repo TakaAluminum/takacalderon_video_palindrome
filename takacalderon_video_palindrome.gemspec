@@ -8,6 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["Taka Calderon"]
   spec.email = ["taka.calderon@gmail.com"]
 
+  spec.license = "MIT"
+
   spec.summary = "Palindrome dectector"
   spec.description = "Learn Enough Ruby palindrome dectector. This will detect whether an input is a palindrome or not."
   spec.homepage = "https://github.com/TakaAluminum/takacalderon_video_palindrome"
