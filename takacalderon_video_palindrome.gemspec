@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.license = "MIT"
 
-  spec.summary = "Palindrome dectector"
+  spec.summary = "Palindrome detector"
   spec.description = "Learn Enough Ruby palindrome dectector. This will detect whether an input is a palindrome or not."
   spec.homepage = "https://github.com/TakaAluminum/takacalderon_video_palindrome"
   spec.required_ruby_version = ">= 3.1.0"
